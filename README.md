@@ -14,7 +14,7 @@
 
 ## 技术支持
 
-* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1391)
+* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1396)
 
 * [npm包](https://www.npmjs.com/package/hm-uniapp-information-card)
 
@@ -37,9 +37,9 @@
 在script中引用：
 
 ```javascript
-import HmFriendsList from '@/components/hm-information-card/index.vue'
+import HmInformationCard from '@/components/hm-information-card/index.vue'
 export default {
-    components: {HmFriendsList}
+    components: {HmInformationCard}
 }
 ```
 
